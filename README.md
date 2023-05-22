@@ -12,3 +12,9 @@ The whole scope of the project is to utilize different Information Technologies 
 - Artificial Inteligence algorithms for fluency parameters;
 - Non-Relational and Relational Databases ;
 - An IBFT 2.O Blockchain for resilient storage of specific databits.
+
+In this repository, the latter will be the focus of development.
+
+## Technology
+
+The preferred framework of choice is Hyperledger Besu, as it is an Ethereum Client framework, capable of developing Private Blockchains in a Proof of Authority consensus mechanism.
