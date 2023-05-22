@@ -18,3 +18,7 @@ In this repository, the latter will be the focus of development.
 ## Technology
 
 The preferred framework of choice is Hyperledger Besu, as it is an Ethereum Client framework, capable of developing Private Blockchains in a Proof of Authority consensus mechanism.
+
+## Steps for Implementation
+
+As recommended by the documentation (https://besu.hyperledger.org/en/stable/private-networks/tutorials/ibft/#prerequisites):
