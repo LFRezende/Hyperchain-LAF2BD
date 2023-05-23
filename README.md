@@ -22,3 +22,9 @@ The preferred framework of choice is Hyperledger Besu, as it is an Ethereum Clie
 ## Steps for Implementation
 
 As recommended by the documentation (https://besu.hyperledger.org/en/stable/private-networks/tutorials/ibft/#prerequisites):
+
+## Current Resources:
+
+- https://www.youtube.com/watch?v=Ub3Mgz2uA3M&list=PLOMSmpByuiuPGTXPJTtOxcd0f3xoAsXpM&index=2
+
+- https://besu.hyperledger.org/en/stable/private-networks/tutorials/ibft/#prerequisites
